@@ -213,8 +213,8 @@ hr {
 .about img{
     position: relative;
     bottom: 85px;
-    width: 400px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
     border-radius: 15px;
     border: 1px solid black;
 }
